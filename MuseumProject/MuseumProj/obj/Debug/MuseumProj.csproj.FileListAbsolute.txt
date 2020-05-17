@@ -1,0 +1,224 @@
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\bin\Debug\MuseumProj.exe.config
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\bin\Debug\MuseumProj.exe
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\bin\Debug\MuseumProj.pdb
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.csprojResolveAssemblyReference.cache
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.EmpMainMenu.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Login.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.ManagerMainMenu.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Menu00.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Monuments.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.MyInfo.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Properties.Resources.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.SignUp.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.csproj.GenerateResource.Cache
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.exe
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.pdb
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Prehistoric.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.EarlyAges.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.OldKingdom.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.LatePeriod.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.MiddleKingdom.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.NewKingdom.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Piece.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.AddMonument.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.ChangeAccountInfo.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.CheckPassword.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.DisplayEmployees.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Employees.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.RemoveEmployee.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.AddEmployee.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.UpdateEmployee.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.AssignShifts.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.DisplayTourguides.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Tourguides.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.AddTourguides.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.UpdateTourguides.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.RemoveTourguide.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.MonumentsStatistics.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Statistics.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.EmployeeStatistics.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.TourguideStatistics.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.AddMaintenance.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.ConfirmMaintenance.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Maintenance.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.TransferTo.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Transfer.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.TransferFrom.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.DisplayTrips.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Trips.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.AddTrip.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.UpdatePrice.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.DisplayShifts.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.AddTickets.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.Tickets.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.ShowDayTicketStatistics.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MuseumProj\MuseumProj\obj\Debug\MuseumProj.TicketsStatistics.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\bin\Debug\MuseumProj.exe.config
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\bin\Debug\MuseumProj.exe
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\bin\Debug\MuseumProj.pdb
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.ShowDayTicketStatistics.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.TicketsStatistics.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddTickets.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.DisplayShifts.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Tickets.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddTrip.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.DisplayTrips.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AssignShifts.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddEmployee.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddMaintenance.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.ConfirmMaintenance.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Maintenance.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.EmployeeStatistics.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.MonumentsStatistics.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddMonument.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.ChangeAccountInfo.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.CheckPassword.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.DisplayEmployees.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Employees.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.EmpMainMenu.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Login.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.ManagerMainMenu.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Menu00.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Monuments.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.EarlyAges.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.LatePeriod.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.MiddleKingdom.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.NewKingdom.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.OldKingdom.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Prehistoric.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.MyInfo.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Piece.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.RemoveEmployee.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.SignUp.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.UpdateEmployee.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Statistics.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.TourguideStatistics.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddTourguides.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.DisplayTourguides.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.RemoveTourguide.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Tourguides.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.UpdateTourguides.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Transfer.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.TransferFrom.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.TransferTo.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Trips.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.UpdatePrice.resources
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.exe
+C:\Users\LENOVO\Downloads\MuseumProject\MuseumProj\obj\Debug\MuseumProj.pdb
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\bin\Debug\MuseumProj.exe.config
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.exe
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.pdb
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\bin\Debug\MuseumProj.exe
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\bin\Debug\MuseumProj.pdb
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.csprojResolveAssemblyReference.cache
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.ShowDayTicketStatistics.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.TicketsStatistics.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddTickets.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.DisplayShifts.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Tickets.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddTrip.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.DisplayTrips.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AssignShifts.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddEmployee.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddMaintenance.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.ConfirmMaintenance.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Maintenance.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.EmployeeStatistics.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.MonumentsStatistics.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddMonument.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.ChangeAccountInfo.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.CheckPassword.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.DisplayEmployees.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Employees.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.EmpMainMenu.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Login.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.ManagerMainMenu.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Menu00.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Monuments.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.EarlyAges.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.LatePeriod.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.MiddleKingdom.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.NewKingdom.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.OldKingdom.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Prehistoric.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.MyInfo.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Piece.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Properties.Resources.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.RemoveEmployee.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.SignUp.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.UpdateEmployee.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Statistics.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.TourguideStatistics.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddTourguides.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.DisplayTourguides.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.RemoveTourguide.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Tourguides.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.UpdateTourguides.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Transfer.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.TransferFrom.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.TransferTo.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Trips.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.UpdatePrice.resources
+E:\CCE2\software\yarab final\MuseumProject\MuseumProj\obj\Debug\MuseumProj.csproj.GenerateResource.Cache
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\bin\Debug\MuseumProj.exe.config
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.exe
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.pdb
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\bin\Debug\MuseumProj.exe
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\bin\Debug\MuseumProj.pdb
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.csprojResolveAssemblyReference.cache
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.ShowDayTicketStatistics.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.TicketsStatistics.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddTickets.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.DisplayShifts.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Tickets.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddTrip.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.DisplayTrips.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AssignShifts.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddEmployee.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddMaintenance.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.ConfirmMaintenance.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Maintenance.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.EmployeeStatistics.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.MonumentsStatistics.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddMonument.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.ChangeAccountInfo.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.CheckPassword.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.DisplayEmployees.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Employees.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.EmpMainMenu.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Login.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.ManagerMainMenu.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Menu00.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Monuments.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.EarlyAges.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.LatePeriod.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.MiddleKingdom.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.NewKingdom.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.OldKingdom.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Prehistoric.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.MyInfo.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Piece.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Properties.Resources.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.RemoveEmployee.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.SignUp.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.UpdateEmployee.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Statistics.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.TourguideStatistics.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.AddTourguides.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.DisplayTourguides.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.RemoveTourguide.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Tourguides.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.UpdateTourguides.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Transfer.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.TransferFrom.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.TransferTo.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.Trips.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.UpdatePrice.resources
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProject\MuseumProj\obj\Debug\MuseumProj.csproj.GenerateResource.Cache
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProj\bin\Debug\MuseumProj.exe.config
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProj\obj\Debug\MuseumProj.exe
+C:\Users\Salma Saber\Documents\Visual Studio 2012\Projects\MUSEUM PROJECT FINAL\MuseumProject\MuseumProj\obj\Debug\MuseumProj.pdb

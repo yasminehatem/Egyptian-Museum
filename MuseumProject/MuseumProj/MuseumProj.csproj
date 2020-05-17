@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0B6EE923-8537-4B20-A447-07E610A3A0A6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MuseumProj</RootNamespace>
+    <AssemblyName>MuseumProj</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Statistics\ShowDayTicketStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics\ShowDayTicketStatistics.Designer.cs">
+      <DependentUpon>ShowDayTicketStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistics\TicketsStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics\TicketsStatistics.Designer.cs">
+      <DependentUpon>TicketsStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tickets\AddTickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tickets\AddTickets.Designer.cs">
+      <DependentUpon>AddTickets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\DisplayShifts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\DisplayShifts.Designer.cs">
+      <DependentUpon>DisplayShifts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tickets\Tickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tickets\Tickets.Designer.cs">
+      <DependentUpon>Tickets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trips\AddTrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trips\AddTrip.Designer.cs">
+      <DependentUpon>AddTrip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trips\DisplayTrips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trips\DisplayTrips.Designer.cs">
+      <DependentUpon>DisplayTrips.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance\AddMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maintenance\AddMaintenance.Designer.cs">
+      <DependentUpon>AddMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance\ConfirmMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maintenance\ConfirmMaintenance.Designer.cs">
+      <DependentUpon>ConfirmMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance\Maintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maintenance\Maintenance.Designer.cs">
+      <DependentUpon>Maintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistics\EmployeeStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics\EmployeeStatistics.Designer.cs">
+      <DependentUpon>EmployeeStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistics\MonumentsStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics\MonumentsStatistics.Designer.cs">
+      <DependentUpon>MonumentsStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistics\Statistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics\Statistics.Designer.cs">
+      <DependentUpon>Statistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistics\TourguideStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics\TourguideStatistics.Designer.cs">
+      <DependentUpon>TourguideStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tourguides\AddTourguides.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tourguides\AddTourguides.Designer.cs">
+      <DependentUpon>AddTourguides.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\AssignShifts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\AssignShifts.Designer.cs">
+      <DependentUpon>AssignShifts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tourguides\DisplayTourguides.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tourguides\DisplayTourguides.Designer.cs">
+      <DependentUpon>DisplayTourguides.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\AddEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\AddEmployee.Designer.cs">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monuments\AddMonument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monuments\AddMonument.Designer.cs">
+      <DependentUpon>AddMonument.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tourguides\RemoveTourguide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tourguides\RemoveTourguide.Designer.cs">
+      <DependentUpon>RemoveTourguide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\ChangeAccountInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\ChangeAccountInfo.Designer.cs">
+      <DependentUpon>ChangeAccountInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\CheckPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\CheckPassword.Designer.cs">
+      <DependentUpon>CheckPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller.cs" />
+    <Compile Include="DBManager.cs" />
+    <Compile Include="Employees\DisplayEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\DisplayEmployees.Designer.cs">
+      <DependentUpon>DisplayEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\Employees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\Employees.Designer.cs">
+      <DependentUpon>Employees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monuments\EarlyAges.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monuments\EarlyAges.Designer.cs">
+      <DependentUpon>EarlyAges.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpMainMenu.Designer.cs">
+      <DependentUpon>EmpMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monuments\LatePeriod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monuments\LatePeriod.Designer.cs">
+      <DependentUpon>LatePeriod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerMainMenu.Designer.cs">
+      <DependentUpon>ManagerMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu00.Designer.cs">
+      <DependentUpon>Menu00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monuments\MiddleKingdom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monuments\MiddleKingdom.Designer.cs">
+      <DependentUpon>MiddleKingdom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monuments\Monuments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monuments\Monuments.Designer.cs">
+      <DependentUpon>Monuments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\MyInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\MyInfo.Designer.cs">
+      <DependentUpon>MyInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monuments\NewKingdom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monuments\NewKingdom.Designer.cs">
+      <DependentUpon>NewKingdom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monuments\OldKingdom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monuments\OldKingdom.Designer.cs">
+      <DependentUpon>OldKingdom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monuments\Prehistoric.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monuments\Prehistoric.Designer.cs">
+      <DependentUpon>Prehistoric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monuments\Piece.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monuments\Piece.Designer.cs">
+      <DependentUpon>Piece.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Employees\RemoveEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\RemoveEmployee.Designer.cs">
+      <DependentUpon>RemoveEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\UpdateEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\UpdateEmployee.Designer.cs">
+      <DependentUpon>UpdateEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tourguides\Tourguides.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tourguides\Tourguides.Designer.cs">
+      <DependentUpon>Tourguides.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tourguides\UpdateTourguides.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tourguides\UpdateTourguides.Designer.cs">
+      <DependentUpon>UpdateTourguides.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer\Transfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer\Transfer.Designer.cs">
+      <DependentUpon>Transfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer\TransferFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer\TransferFrom.Designer.cs">
+      <DependentUpon>TransferFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer\TransferTo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer\TransferTo.Designer.cs">
+      <DependentUpon>TransferTo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trips\Trips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trips\Trips.Designer.cs">
+      <DependentUpon>Trips.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tickets\UpdatePrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tickets\UpdatePrice.Designer.cs">
+      <DependentUpon>UpdatePrice.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Statistics\ShowDayTicketStatistics.resx">
+      <DependentUpon>ShowDayTicketStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistics\TicketsStatistics.resx">
+      <DependentUpon>TicketsStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tickets\AddTickets.resx">
+      <DependentUpon>AddTickets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\DisplayShifts.resx">
+      <DependentUpon>DisplayShifts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tickets\Tickets.resx">
+      <DependentUpon>Tickets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trips\AddTrip.resx">
+      <DependentUpon>AddTrip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trips\DisplayTrips.resx">
+      <DependentUpon>DisplayTrips.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\AssignShifts.resx">
+      <DependentUpon>AssignShifts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\AddEmployee.resx">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maintenance\AddMaintenance.resx">
+      <DependentUpon>AddMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maintenance\ConfirmMaintenance.resx">
+      <DependentUpon>ConfirmMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maintenance\Maintenance.resx">
+      <DependentUpon>Maintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistics\EmployeeStatistics.resx">
+      <DependentUpon>EmployeeStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistics\MonumentsStatistics.resx">
+      <DependentUpon>MonumentsStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monuments\AddMonument.resx">
+      <DependentUpon>AddMonument.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\ChangeAccountInfo.resx">
+      <DependentUpon>ChangeAccountInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\CheckPassword.resx">
+      <DependentUpon>CheckPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\DisplayEmployees.resx">
+      <DependentUpon>DisplayEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\Employees.resx">
+      <DependentUpon>Employees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpMainMenu.resx">
+      <DependentUpon>EmpMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerMainMenu.resx">
+      <DependentUpon>ManagerMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu00.resx">
+      <DependentUpon>Menu00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monuments\Monuments.resx">
+      <DependentUpon>Monuments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monuments\EarlyAges.resx">
+      <DependentUpon>EarlyAges.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monuments\LatePeriod.resx">
+      <DependentUpon>LatePeriod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monuments\MiddleKingdom.resx">
+      <DependentUpon>MiddleKingdom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monuments\NewKingdom.resx">
+      <DependentUpon>NewKingdom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monuments\OldKingdom.resx">
+      <DependentUpon>OldKingdom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monuments\Prehistoric.resx">
+      <DependentUpon>Prehistoric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\MyInfo.resx">
+      <DependentUpon>MyInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monuments\Piece.resx">
+      <DependentUpon>Piece.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Employees\RemoveEmployee.resx">
+      <DependentUpon>RemoveEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\UpdateEmployee.resx">
+      <DependentUpon>UpdateEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistics\Statistics.resx">
+      <DependentUpon>Statistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistics\TourguideStatistics.resx">
+      <DependentUpon>TourguideStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tourguides\AddTourguides.resx">
+      <DependentUpon>AddTourguides.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tourguides\DisplayTourguides.resx">
+      <DependentUpon>DisplayTourguides.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tourguides\RemoveTourguide.resx">
+      <DependentUpon>RemoveTourguide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tourguides\Tourguides.resx">
+      <DependentUpon>Tourguides.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tourguides\UpdateTourguides.resx">
+      <DependentUpon>UpdateTourguides.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer\Transfer.resx">
+      <DependentUpon>Transfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer\TransferFrom.resx">
+      <DependentUpon>TransferFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer\TransferTo.resx">
+      <DependentUpon>TransferTo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trips\Trips.resx">
+      <DependentUpon>Trips.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tickets\UpdatePrice.resx">
+      <DependentUpon>UpdatePrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
